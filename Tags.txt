@@ -1,0 +1,25 @@
+<title>Singapore</title>: Title of the webpage.
+
+<meta charset="utf-8" />: Specifies the character encoding of the document to UTF-8.
+
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />: Configures the viewport settings for responsive design.
+
+<link rel="stylesheet" href="assets/css/main.css" />: Links an external CSS stylesheet to the HTML document.
+
+<header>: Header section containing navigation links.
+
+<nav>: Navigation links.
+
+<a>: Anchor tags linking to different pages.
+
+<body>: Body section containing multiple spotlights.
+
+<section id="two" class="wrapper alt style2">: Section containing multiple spotlights, styled differently.
+
+<section class="spotlight">: Individual spotlight section.
+
+<div class="image">: Div for displaying the image.
+
+<div class="content">: Div for displaying content related to the spotlight, including its title and description.
+
+Spotlight title and description are provided as <h2> and <p> elements respectively.
